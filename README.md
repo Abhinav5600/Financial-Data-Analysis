@@ -1,7 +1,7 @@
 # Financial Data Analysis using Python
 
 ## 📌 Overview
-This project focuses on analyzing financial datasets to identify trends, patterns, and insights using Python. It involves statistical analysis and visualization of time-series data.
+This project focuses on analyzing financial datasets to identify trends, patterns, and insights using Python. It involves the statistical analysis and visualization of time-series data.
 
 ## ⚙️ Features
 - Data cleaning and preprocessing
